@@ -1,0 +1,13 @@
+.navbar__container{
+    display: flex;
+    flex-direction: row;
+    background-color: aliceblue;
+    height: 30px;       
+}
+
+
+.navbar{
+    padding-top:0px;
+    padding-bottom: 1rem; /* Aumenta o padding inferior */
+    height: 40px; /* Defina uma altura fixa, se necessário */
+}

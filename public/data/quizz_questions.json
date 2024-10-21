@@ -1,0 +1,62 @@
+{
+    "title":"Qual Rei da História Você Seria?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Se houvesse uma grande crise de fome, o que você faria?",
+        "options":[
+          {"id": 1, "name":"Distribuiria parte da riqueza do palácio para alimentar o povo.", "alias":"A"},
+          {"id": 2, "name":"Aumentaria os impostos e puniria quem reclamasse.", "alias":"B"},
+          {"id": 3, "name":"Montaria uma estratégia para equilibrar as finanças.", "alias":"C"},
+          {"id": 4, "name":"Confiscaria terras dos nobres e redistribuiria para quem estivesse em necessidade.", "alias":"D"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Como você lida com seus conselheiros?",
+        "options":[
+          {"id": 1, "name":"Só ouço conselheiros em questões religiosas e espirituais, o resto eu decido sozinho.", "alias":"D"},
+          {"id": 2, "name":"Valorizo a sabedoria de meus conselheiros, mas tomo a decisão final.", "alias":"C"},             
+          {"id": 3, "name":"Ouço todos os conselhos e tomo decisões considerando o bem-estar geral.", "alias":"A"},
+          {"id": 4, "name":"Ignoro os conselhos e faço o que eu acho melhor, independentemente das consequências.", "alias":"B"}
+
+        ]
+      },
+      {
+        "id":3,
+        "question": "Como seria uma festa em seu castelo?",
+        "options":[
+          {"id": 1, "name":"Apenas a nobreza e meus aliados poderosos são convidados, ninguém mais.", "alias":"B"},          
+          {"id": 2, "name":"Todos são convidados, do mais pobre ao mais rico.", "alias":"A"},
+          {"id": 3, "name":"Faria um banquete, mas apenas para aqueles que seguem as regras impostas pelo meu governo.", "alias":"D"},          
+          {"id": 4, "name":"Organizaria uma festa moderada, principalmente com meus conselheiros e figuras influentes.", "alias":"C"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Se um reino vizinho estivesse em apuros, você...",
+        "options":[
+          {"id": 1, "name":"Ajudaria, enviando suprimentos e diplomatas para resolver pacificamente.", "alias":"A"},
+          {"id": 2, "name":"Proporia uma aliança, desde que fosse benéfica para meu reino.", "alias":"C"},          
+          {"id": 3, "name":"Ajudaria, mas somente se o reino seguisse os preceitos religiosos do meu governo.", "alias":"D"},                              
+          {"id": 4, "name":"Invadiria o reino e tomaria suas terras para expandir meu império.", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual é sua prioridade como rei?",
+        "options":[
+          {"id": 1, "name":"Manter a estabilidade do reino e meu legado, mesmo que signifique tomar decisões impopulares.", "alias":"C"},          
+          {"id": 2, "name":"Cuidar do bem-estar do povo e garantir a justiça.", "alias":"A"},
+          {"id": 3, "name":"Expandir o poder a qualquer custo, mesmo que o povo sofra.", "alias":"B"},
+          {"id": 4, "name":"Preservar a moral e os valores religiosos acima de tudo.", "alias":"D"}                    
+        ]
+      }
+    ],
+    "results":{
+      "A": "❤ Você se parece com Rei Salomão! Conhecido por sua sabedoria e decisões justas",
+      "B": "🗡 Você se identifica com o Rei João da Inglaterra! Famoso por ser tirano e impiedoso",
+      "C": "💎 Você é parecido com Henrique VIII da Inglaterra! Um governante pragmático e ambicioso,",
+      "D": "🎎 Você se assemelha a Rei Luís IX (São Luís da França)! Governou com forte convicção religiosa e moral."            
+    }
+  }
